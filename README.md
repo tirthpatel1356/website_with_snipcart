@@ -1,5 +1,6 @@
 # website_with_snipcart
 A basic shoping website with snipcart integration for payment gateway as well as managing cart and items
+it contains html,css and some js
 
 some images of the website - 
 ![image](https://github.com/user-attachments/assets/a39c51c0-8166-41f7-a0d2-465fbcc4d56b)
